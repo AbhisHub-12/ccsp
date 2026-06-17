@@ -22,6 +22,10 @@ A total beginner should care because almost everything you use today — your ba
 
 In this module we go from these basics all the way to **containers** (a lightweight way to package and ship software), the threats unique to cloud, how attackers exploit them, and the defenses that stop them.
 
+> 🔑 **Key idea:** You can outsource the *work* of security to a cloud provider, but you can never outsource the *accountability*. Where the provider's job ends and yours begins is the whole game.
+
+> 🖼️ *Suggested image: the AWS/Azure/GCP "shared responsibility model" diagram from the provider's own docs (e.g. AWS Shared Responsibility Model).*
+
 ---
 
 ## 2. Core Concepts
@@ -71,6 +75,27 @@ This is the single most important security concept in the cloud. It splits dutie
 
 Crucially, the dividing line **moves depending on the service model**. With IaaS you patch the OS; with SaaS the provider does. But **data, identity, and access management are almost always your responsibility, no matter the model.** The ISC2 CCSP guide stresses that the customer can never fully outsource accountability — even when a task is the provider's, the customer remains accountable to regulators and customers for the outcome.
 
+```mermaid
+flowchart TD
+    subgraph YOU["🧑 Customer secures *in* the cloud"]
+        D[Data & classification]
+        ID[Identity & access - IAM]
+        APP[Application code & config]
+        OSp[OS patching - IaaS only]
+        NET[Network rules / firewall config]
+    end
+    subgraph PROV["☁️ Provider secures *of* the cloud"]
+        HW[Physical data centres]
+        VIRT[Virtualization / hypervisor]
+        GNET[Global network backbone]
+        MS[Managed services - more as you go SaaS]
+    end
+    D --- ID --- APP
+    HW --- VIRT --- GNET
+```
+
+> 💡 **Tip:** Read the diagram top-down by service model — as you move IaaS → PaaS → SaaS, items like OS patching slide *up* from your box into the provider's box. Data and identity never move.
+
 ### 2.5 Container technology
 
 A **container** is a way to package an application together with everything it needs to run (libraries, settings) into a single, portable unit that runs the same anywhere. Unlike a virtual machine, which includes a full operating system, containers **share the host's OS kernel**, making them lightweight and fast to start.
@@ -79,6 +104,17 @@ A **container** is a way to package an application together with everything it n
 - **Kubernetes (K8s)** — an **orchestrator** that runs, scales, and heals thousands of containers across many machines. Its smallest unit is a **pod** (one or more containers that share networking).
 
 **Why containers change security:** because containers share the host kernel, a flaw that lets an attacker "break out" of a container can compromise the whole host and every other container on it. Container security spans four areas (the "4 C's"): **Code, Container image, Cluster, Cloud/host.** Key risks include: images built from untrusted bases, secrets baked into images, containers running as **root** (full admin), overly permissive Kubernetes role bindings, and an exposed Kubernetes API server or dashboard.
+
+> ⚠️ **Warning:** A container running as **root** that breaks out becomes root on the *host*. Treat "don't run as root" and "don't expose the K8s dashboard" as non-negotiable.
+
+> 🖼️ *Suggested image: a VM-vs-Container architecture comparison (Docker docs) showing containers sharing one host kernel while VMs each carry a full guest OS.*
+
+| | Virtual Machine | Container |
+|---|---|---|
+| **Isolation** | Strong (own kernel) | Weaker (shared host kernel) |
+| **Size / start time** | GBs / minutes | MBs / seconds |
+| **Blast radius of escape** | The VM | Potentially the whole host |
+| **Best for** | Strong tenant isolation | Fast, portable app packaging |
 
 ### 2.6 Cloud-specific threats
 
@@ -89,6 +125,31 @@ A **container** is a way to package an application together with everything it n
 - **Data breaches & data loss** — exposed data or deleted-without-backup data.
 - **Insider threats** and **shared-technology vulnerabilities** (multi-tenancy escape).
 - **Supply-chain attacks** via poisoned container images or dependencies.
+
+```mermaid
+mindmap
+  root((Cloud Threats))
+    Misconfiguration
+      Public storage buckets
+      Open security groups
+    Identity
+      Leaked API keys
+      Over-privileged roles
+      No MFA
+    APIs
+      Insecure endpoints
+      Account hijacking
+    Containers
+      Untrusted base images
+      Running as root
+      Exposed K8s API
+    Data
+      Breach / exposure
+      Loss without backup
+    Supply chain
+      Poisoned images
+      Bad dependencies
+```
 
 ### 2.7 Cloud security controls
 
