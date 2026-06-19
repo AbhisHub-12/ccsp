@@ -106,10 +106,3 @@ Knowing how attacks work is what lets you stop them. Use it responsibly.
 3. [AI in Cyber Defence Mechanisms](06-ai-for-cyber-security/module-03-ai-in-cyber-defence-mechanisms.md)
 4. [Ethical & Legal Considerations in AI](06-ai-for-cyber-security/module-04-ethical-and-legal-considerations-in-ai.md)
 5. [Emerging Trends & Future of AI in Cyber Security](06-ai-for-cyber-security/module-05-emerging-trends-and-future-of-ai.md)
-
----
-
-*Curriculum spine: Skillogic CSPP Brochure (V25.4). Depth drawn from the
-ISC2 study guide and current industry knowledge. These notes are a learning
-reference, not the sole source of truth — always verify tool syntax and laws
-against current primary sources.*
