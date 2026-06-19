@@ -62,7 +62,7 @@ flowchart LR
 
 Security is measured against three goals, the **CIA triad** (nothing to do with the spy agency). Every attack tries to break one or more; every defense tries to preserve them.
 
-![CIA triad: Confidentiality, Integrity, Availability](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/960px-CIAJMK1209-en.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/960px-CIAJMK1209-en.svg.png" alt="CIA triad: Confidentiality, Integrity, Availability" width="380">
 *The CIA triad — the three core goals of information security. (Wikimedia Commons)*
 
 | Goal | Guarantee | Everyday example |

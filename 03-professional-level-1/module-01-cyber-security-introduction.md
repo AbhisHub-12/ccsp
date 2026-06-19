@@ -33,7 +33,7 @@ To do the job you need a toolbox. **Kali Linux** is the most popular one — a f
 
 Security has three goals, the **CIA triad** (no relation to the spy agency). Every attack violates at least one; every defense protects at least one — keep it as a mental checklist.
 
-![CIA triad of confidentiality, integrity and availability](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/960px-CIAJMK1209-en.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/960px-CIAJMK1209-en.svg.png" alt="CIA triad of confidentiality, integrity and availability" width="380">
 *The CIA triad: Confidentiality, Integrity, and Availability (Wikimedia Commons).*
 
 | Goal | Means | Example |

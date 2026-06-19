@@ -99,7 +99,7 @@ Uses a *pair* of mathematically linked keys: a **public key** (shared freely) an
 
 > 💡 **Tip — the mailbox analogy:** Anyone can drop a letter in the slot (encrypt with the public key), but only the person with the mailbox key (private key) can take letters out (decrypt). You publish your public key anywhere, and people send you secrets with no pre-shared password.
 
-![Public-key encryption: a public key encrypts, the matching private key decrypts](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Public_key_encryption.svg/500px-Public_key_encryption.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Public_key_encryption.svg/500px-Public_key_encryption.svg.png" alt="Public-key encryption: a public key encrypts, the matching private key decrypts" width="460">
 
 | Algorithm | Based on | Notes |
 |---|---|---|

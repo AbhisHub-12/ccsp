@@ -95,7 +95,7 @@ sequenceDiagram
     C->>S: RST  (abort before logging)
 ```
 
-![TCP three-way handshake diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tcp_normal.svg/960px-Tcp_normal.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tcp_normal.svg/960px-Tcp_normal.svg.png" alt="TCP three-way handshake diagram" width="300">
 *The TCP connection lifecycle — SYN, SYN/ACK, ACK to open and FIN/ACK exchanges to close. (Wikimedia Commons)*
 
 ### Scan types (built on TCP flags)

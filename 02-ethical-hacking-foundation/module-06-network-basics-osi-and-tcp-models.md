@@ -336,7 +336,7 @@ At the end you'll see a summary like `4 packets transmitted, 4 received, 0% pack
 
 How the blue team (defenders) protect each part of the stack — attack vs defense, layer by layer.
 
-![Diagram of packet flow through the Linux network stack and Netfilter hooks](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Netfilter-packet-flow.svg/1280px-Netfilter-packet-flow.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Netfilter-packet-flow.svg/1280px-Netfilter-packet-flow.svg.png" alt="Diagram of packet flow through the Linux network stack and Netfilter hooks" width="520">
 *Packets traverse the network stack through filtering hooks (Netfilter/iptables) — the basis for the firewall and filtering defenses below. Source: Wikimedia Commons.*
 
 

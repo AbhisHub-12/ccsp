@@ -48,7 +48,7 @@ Core vocabulary you'll hear constantly:
 
 The **CIA triad** is the foundation of all information security (nothing to do with the intelligence agency). It names the three properties we always try to preserve.
 
-![CIA triad diagram showing Confidentiality, Integrity, and Availability](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/960px-CIAJMK1209-en.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/960px-CIAJMK1209-en.svg.png" alt="CIA triad diagram showing Confidentiality, Integrity, and Availability" width="380">
 *The CIA triad — Confidentiality, Integrity, and Availability — the three goals every control protects. (Source: Wikimedia Commons)*
 
 | Letter | Property | Broken when… | Protected by |

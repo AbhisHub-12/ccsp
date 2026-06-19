@@ -24,7 +24,7 @@ Picture your local network as a postal system. Every device sends out "letters" 
 
 Sniffing is one of the oldest, quietest, and most effective techniques in an attacker's toolkit — and understanding it is the first step to defending against it.
 
-![OSI model layers diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Osi-model-jb.svg/960px-Osi-model-jb.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Osi-model-jb.svg/960px-Osi-model-jb.svg.png" alt="OSI model layers diagram" width="400">
 *The OSI model. Sniffing attacks mostly target Layer 2 (Data Link / MAC, ARP) and Layer 3 (Network / IP), reading the unencrypted upper layers once traffic is redirected.*
 
 ---
