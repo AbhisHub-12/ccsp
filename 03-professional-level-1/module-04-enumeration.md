@@ -11,7 +11,7 @@
 
 ---
 
-> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=10LrJDbQm7E) [What is Enumeration in Ethical Hacking? Explained](https://www.youtube.com/watch?v=10LrJDbQm7E)
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=lwOBuK1WSEE) [Enumeration in Ethical Hacking: A Comprehensive Conceptual Guide](https://www.youtube.com/watch?v=lwOBuK1WSEE)
 
 ---
 

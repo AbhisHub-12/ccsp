@@ -11,7 +11,7 @@
 
 ---
 
-> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Ti6UN9MSLno) [The CIA Triad: Confidentiality, Integrity & Availability Explained](https://www.youtube.com/watch?v=Ti6UN9MSLno)
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=kw1ENBcd1QI) [Core Cybersecurity Concepts: CIA Triad, NIST, Threats & Zero Trust Explained](https://www.youtube.com/watch?v=kw1ENBcd1QI)
 
 ---
 

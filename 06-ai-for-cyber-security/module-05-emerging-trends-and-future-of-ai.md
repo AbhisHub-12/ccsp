@@ -9,7 +9,7 @@
 
 ---
 
-> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=OYQ72d66EmY) [Post-Quantum Cryptography Explained: The Future of Cybersecurity in a Quantum World](https://www.youtube.com/watch?v=OYQ72d66EmY)
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=k0TTcGaVFSw) [The Rise of Autonomous AI-Powered Cyber Defense — The Future of AI in Cybersecurity](https://www.youtube.com/watch?v=k0TTcGaVFSw)
 
 ---
 
