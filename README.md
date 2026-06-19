@@ -48,6 +48,7 @@ Knowing how attacks work is what lets you stop them. Use it responsibly.
 | 3 | [Professional Level 2](03-professional-level-2/) | SKL-CSP2-711 | 12 | Web, wireless, mobile, cloud, crypto, IoT attacks |
 | 4 | [Penetration Testing](04-penetration-testing/) | SKL-PEN-712 | 2 | Running a professional engagement end-to-end |
 | 5 | [AI for Cyber Security](05-ai-for-cyber-security/) | SKL-AICS-720 | 5 | Using machine learning to attack and defend |
+| 📎 | [Networking Basics](06-networking-basics/) | — | 1 ref | Standalone deep networking handbook (companion to Course 1) |
 
 **Total:** 33 modules · ~200 learning hours · 4-month program.
 
@@ -62,7 +63,7 @@ Knowing how attacks work is what lets you stop them. Use it responsibly.
 4. [Cyber Security Tools Intro](01-ethical-hacking-foundation/module-04-cyber-security-tools-intro.md)
 5. [Exploitation and Penetration Testing](01-ethical-hacking-foundation/module-05-exploitation-and-penetration-testing.md)
 6. [Network Basics: OSI & TCP/IP Models](01-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md)
-   - 🌐 *Companion:* [Networking Basics — Deep Reference](01-ethical-hacking-foundation/networking-basics.md)
+   - 🌐 *Companion:* [Networking Basics — Deep Reference](06-networking-basics/networking-basics.md)
 
 ### 2 · Professional Level 1 (`SKL-CSP1-710`)
 1. [Cyber Security Introduction & Kali Setup](02-professional-level-1/module-01-cyber-security-introduction.md)

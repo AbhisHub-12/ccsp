@@ -12,7 +12,7 @@
 | Ethical Hacking Foundation | SKL-CEF-705 | Companion reference (Networking Basics) | Foundation |
 
 > 📎 **How this fits:** This is a **deep companion reference** to
-> [`module-06-network-basics-osi-and-tcp-models`](module-06-network-basics-osi-and-tcp-models.md).
+> [`module-06-network-basics-osi-and-tcp-models`](../01-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md).
 > Module 06 teaches the OSI/TCP-IP story end-to-end; this file is the **wider,
 > question-by-question networking handbook** — keep it open while studying for
 > interviews, labs, and exams. Definitions are preserved exactly as taught;
@@ -835,4 +835,4 @@ graph LR
 > ⚠️ **Ethics reminder:** as with every module in this repo, practice and test
 > only on systems you own or are explicitly authorized to use.
 
-**Further reading:** [Module 06 — Network Basics: OSI & TCP/IP Models](module-06-network-basics-osi-and-tcp-models.md) · [GLOSSARY.md](../GLOSSARY.md) · ISO/IEC 7498-1 (OSI reference model) · RFC 1918 (private addresses) · RFC 2460/8200 (IPv6).
+**Further reading:** [Module 06 — Network Basics: OSI & TCP/IP Models](../01-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md) · [GLOSSARY.md](../GLOSSARY.md) · ISO/IEC 7498-1 (OSI reference model) · RFC 1918 (private addresses) · RFC 2460/8200 (IPv6).
