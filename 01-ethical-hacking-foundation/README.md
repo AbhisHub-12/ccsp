@@ -15,6 +15,11 @@ later courses make sense.
 5. [Exploitation and Penetration Testing](module-05-exploitation-and-penetration-testing.md)
 6. [Network Basics: OSI & TCP/IP Models](module-06-network-basics-osi-and-tcp-models.md)
 
+## Companion references
+- 🌐 [Networking Basics — Deep Reference](networking-basics.md) — a wide,
+  question-by-question networking handbook (OSI/TCP-IP, TCP vs UDP, DNS/ARP,
+  DHCP, IPv4 vs IPv6, switching, topologies, VLAN/VPN, NAT, SSH).
+
 ## How this course fits
 ```mermaid
 flowchart LR

@@ -62,6 +62,7 @@ Knowing how attacks work is what lets you stop them. Use it responsibly.
 4. [Cyber Security Tools Intro](01-ethical-hacking-foundation/module-04-cyber-security-tools-intro.md)
 5. [Exploitation and Penetration Testing](01-ethical-hacking-foundation/module-05-exploitation-and-penetration-testing.md)
 6. [Network Basics: OSI & TCP/IP Models](01-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md)
+   - 🌐 *Companion:* [Networking Basics — Deep Reference](01-ethical-hacking-foundation/networking-basics.md)
 
 ### 2 · Professional Level 1 (`SKL-CSP1-710`)
 1. [Cyber Security Introduction & Kali Setup](02-professional-level-1/module-01-cyber-security-introduction.md)
