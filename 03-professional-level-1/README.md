@@ -28,4 +28,4 @@ flowchart LR
     H --> M[Malware &<br/>Sniffing]
 ```
 
-⬅️ Prev: [Course 1](../01-ethical-hacking-foundation/) · ➡️ Next: [Course 3 · Professional Level 2](../03-professional-level-2/)
+⬅️ Prev: [Course 1](../02-ethical-hacking-foundation/) · ➡️ Next: [Course 3 · Professional Level 2](../04-professional-level-2/)

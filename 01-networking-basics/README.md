@@ -17,5 +17,5 @@ firewall, access & trunk ports · NAT/PAT · Telnet vs SSH.
 > diagrams, comparison tables, and callouts are added in the repo's house style.
 
 ## Related
-- [Course 1 · Module 06 — Network Basics: OSI & TCP/IP Models](../01-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md)
+- [Course 1 · Module 06 — Network Basics: OSI & TCP/IP Models](../02-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md)
 - [GLOSSARY.md](../GLOSSARY.md)

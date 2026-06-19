@@ -45,4 +45,4 @@ mindmap
       IoT / OT
 ```
 
-⬅️ Prev: [Course 2](../02-professional-level-1/) · ➡️ Next: [Course 4 · Penetration Testing](../04-penetration-testing/)
+⬅️ Prev: [Course 2](../03-professional-level-1/) · ➡️ Next: [Course 4 · Penetration Testing](../05-penetration-testing/)

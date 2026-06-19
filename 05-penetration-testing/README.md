@@ -22,4 +22,4 @@ flowchart LR
     Po --> Rep[Reporting]
 ```
 
-⬅️ Prev: [Course 3](../03-professional-level-2/) · ➡️ Next: [Course 5 · AI for Cyber Security](../05-ai-for-cyber-security/)
+⬅️ Prev: [Course 3](../04-professional-level-2/) · ➡️ Next: [Course 5 · AI for Cyber Security](../06-ai-for-cyber-security/)

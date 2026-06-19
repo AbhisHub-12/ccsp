@@ -12,7 +12,7 @@
 | Ethical Hacking Foundation | SKL-CEF-705 | Companion reference (Networking Basics) | Foundation |
 
 > 📎 **How this fits:** This is a **deep companion reference** to
-> [`module-06-network-basics-osi-and-tcp-models`](../01-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md).
+> [`module-06-network-basics-osi-and-tcp-models`](../02-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md).
 > Module 06 teaches the OSI/TCP-IP story end-to-end; this file is the **wider,
 > question-by-question networking handbook** — keep it open while studying for
 > interviews, labs, and exams. Definitions are preserved exactly as taught;
@@ -41,6 +41,8 @@
 ---
 
 ## 1. OSI Layers & TCP/IP 📚
+
+> 📺 **Watch (most-viewed on this topic):** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=OdCmjtzAphY) [What is OSI Model? 7 Layers Explained with Examples](https://www.youtube.com/watch?v=OdCmjtzAphY)
 
 ### What is OSI Layers and TCP/IP?
 
@@ -76,6 +78,8 @@ to bottom (Layer 1, the physical wire).
 ---
 
 ## 2. The TCP/IP Model 🧱
+
+> 📺 **Watch (most-viewed on this topic):** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=vv4y_uOneC0) [OSI Model & TCP/IP — Animated Explanation](https://www.youtube.com/watch?v=vv4y_uOneC0)
 
 ### TCP/IP Model
 
@@ -135,6 +139,8 @@ graph TD
 
 ## 3. TCP vs UDP & the Three-Way Handshake 🤝
 
+> 📺 **Watch (most-viewed on this topic):** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rmFX1V49K8U) [How TCP Really Works — Three-Way Handshake (Deep Dive)](https://www.youtube.com/watch?v=rmFX1V49K8U)
+
 ### Differences between TCP and UDP
 
 > **Both TCP (Transmission Control Protocol) and UDP (User Datagram Protocol)
@@ -189,6 +195,8 @@ sequenceDiagram
 
 ## 4. Why TCP is Reliable & Why UDP is Not ✅
 
+> 📺 **Watch (most-viewed on this topic):** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=4Kho3Eeyx1U) [TCP, UDP & the Three-Way Handshake (for Ethical Hackers)](https://www.youtube.com/watch?v=4Kho3Eeyx1U)
+
 ### Why is TCP more Reliable?
 
 > **TCP is considered more reliable due to the following mechanisms:**
@@ -227,6 +235,10 @@ graph LR
 ---
 
 ## 5. DNS, PING, ARP & Network Performance Metrics 🔎
+
+> 📺 **Watch (most-viewed on these topics):**
+> [![YouTube](https://img.shields.io/badge/▶_DNS-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=UVR9lhUGAyU) [DNS Explained in 100 Seconds](https://www.youtube.com/watch?v=UVR9lhUGAyU) ·
+> [![YouTube](https://img.shields.io/badge/▶_ARP-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cn8Zxh9bPio) [ARP — Address Resolution Protocol Explained](https://www.youtube.com/watch?v=cn8Zxh9bPio)
 
 ### What is DNS?
 
@@ -279,6 +291,8 @@ sequenceDiagram
 ---
 
 ## 6. Routing, Ports, RTT, Cast Types & MAC Format 🧭
+
+> 📺 **Watch (most-viewed on this topic):** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=1z0ULvg_pW8) [Hub, Switch & Router Explained — What's the Difference?](https://www.youtube.com/watch?v=1z0ULvg_pW8)
 
 ### What is Routing?
 
@@ -358,6 +372,8 @@ graph TD
 
 ## 7. DHCP & the DORA Process 🪪
 
+> 📺 **Watch (most-viewed on this topic):** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=4pkDL1pgCgQ) [DHCP Explained — the DORA Process](https://www.youtube.com/watch?v=4pkDL1pgCgQ)
+
 ### What is DHCP? (Dynamic Host Configuration Protocol)
 
 > **DHCP stands for Dynamic Host Configuration Protocol, and it is used to
@@ -403,6 +419,8 @@ sequenceDiagram
 
 ## 8. IPv4 vs IPv6 🔢
 
+> 📺 **Watch (most-viewed on this topic):** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ThdO9beHhpA) [IP Address — IPv4 vs IPv6 Tutorial](https://www.youtube.com/watch?v=ThdO9beHhpA)
+
 ### What is version of IP? IPv4 & IPv6
 
 | Feature | **IPv4** | **IPv6** |
@@ -427,6 +445,8 @@ sequenceDiagram
 ---
 
 ## 9. IPv6 Advantages & IP Address Classes 🏷️
+
+> 📺 **Watch (most-viewed on this topic):** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qQkeV9cI3KY) [IP Address Classes Explained — Class A, B, C (CCNA)](https://www.youtube.com/watch?v=qQkeV9cI3KY)
 
 ### More IPv6 advantages (continued)
 
@@ -463,6 +483,8 @@ Class C : 192.168.0.1 – 192.168.255.254
 ---
 
 ## 10. APIPA, Switching, Hubs, Errors & CRC 🔀
+
+> 📺 **Watch (most-viewed on this topic):** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QRWMviYyWV8) [Hub vs Switch vs Router — Networking Devices](https://www.youtube.com/watch?v=QRWMviYyWV8)
 
 ### What is APIPA (Automatic Private IP Addressing)?
 
@@ -521,6 +543,8 @@ Class C : 192.168.0.1 – 192.168.255.254
 ---
 
 ## 11. Network Topologies 🕸️
+
+> 📺 **Watch (most-viewed on this topic):** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=gGTDFG2Q_UM) [Network Topology — Bus, Star, Ring, Mesh, Tree & Hybrid](https://www.youtube.com/watch?v=gGTDFG2Q_UM)
 
 > A **topology** is the physical or logical arrangement of devices and links in a
 > network. Each layout trades off cost, fault-tolerance, and ease of management.
@@ -599,6 +623,10 @@ graph TD
 
 ## 12. VLAN & VPN 🛡️
 
+> 📺 **Watch (most-viewed on these topics):**
+> [![YouTube](https://img.shields.io/badge/▶_VLAN-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jC6MJTh9fRE) [VLAN Explained](https://www.youtube.com/watch?v=jC6MJTh9fRE) ·
+> [![YouTube](https://img.shields.io/badge/▶_VPN-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=kpn2efj6xjI) [What is a VPN and How Does It Work?](https://www.youtube.com/watch?v=kpn2efj6xjI)
+
 ### What is a VLAN and How does it work / why is it used?
 
 > **A VLAN improves security by isolating sensitive data and devices, enhances
@@ -651,6 +679,8 @@ graph LR
 ---
 
 ## 13. Firewall, Access & Trunk Ports 🔥
+
+> 📺 **Watch (most-viewed on this topic):** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=kDEX1HXybrU) [What is a Firewall?](https://www.youtube.com/watch?v=kDEX1HXybrU)
 
 ### VPN vs VLAN (summary)
 
@@ -711,6 +741,10 @@ graph LR
 ---
 
 ## 14. NAT, Telnet & SSH 🔁
+
+> 📺 **Watch (most-viewed on these topics):**
+> [![YouTube](https://img.shields.io/badge/▶_NAT-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FTUV0t6JaDA) [NAT — Network Address Translation Explained](https://www.youtube.com/watch?v=FTUV0t6JaDA) ·
+> [![YouTube](https://img.shields.io/badge/▶_SSH_vs_Telnet-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PfkUJ6j0oW4) [SSH vs Telnet — Network Protocols](https://www.youtube.com/watch?v=PfkUJ6j0oW4)
 
 ### What is NAT (Network Address Translation)?
 
@@ -835,4 +869,4 @@ graph LR
 > ⚠️ **Ethics reminder:** as with every module in this repo, practice and test
 > only on systems you own or are explicitly authorized to use.
 
-**Further reading:** [Module 06 — Network Basics: OSI & TCP/IP Models](../01-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md) · [GLOSSARY.md](../GLOSSARY.md) · ISO/IEC 7498-1 (OSI reference model) · RFC 1918 (private addresses) · RFC 2460/8200 (IPv6).
+**Further reading:** [Module 06 — Network Basics: OSI & TCP/IP Models](../02-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md) · [GLOSSARY.md](../GLOSSARY.md) · ISO/IEC 7498-1 (OSI reference model) · RFC 1918 (private addresses) · RFC 2460/8200 (IPv6).

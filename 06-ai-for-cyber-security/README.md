@@ -25,4 +25,4 @@ flowchart TD
     E --> F[Emerging:<br/>quantum, blockchain, adversarial ML]
 ```
 
-⬅️ Prev: [Course 4](../04-penetration-testing/) · 🏁 You've reached the end — back to [main index](../README.md)
+⬅️ Prev: [Course 4](../05-penetration-testing/) · 🏁 You've reached the end — back to [main index](../README.md)

@@ -28,7 +28,7 @@ Knowing how attacks work is what lets you stop them. Use it responsibly.
 
 ## How to use these notes
 
-- Start at **Course 1** and work down — each course builds on the last.
+- Start with **[Networking Basics](01-networking-basics/)**, then work down through **Course 1 → 5** — each course builds on the last.
 - Every module is a self-contained file following the same structure:
   **Intro → Core Concepts → How It Works (+ diagram) → Real-World Examples →
   Tools → Hands-on Lab → Countermeasures → Key Terms → Summary**.
@@ -41,64 +41,71 @@ Knowing how attacks work is what lets you stop them. Use it responsibly.
 
 ## Program at a glance
 
-| # | Course | Code | Modules | Focus |
-|---|--------|------|---------|-------|
-| 1 | [Ethical Hacking Foundation](01-ethical-hacking-foundation/) | SKL-CEF-705 | 6 | The vocabulary, mindset, and map of the whole field |
-| 2 | [Professional Level 1](02-professional-level-1/) | SKL-CSP1-710 | 8 | Recon → scanning → exploitation fundamentals |
-| 3 | [Professional Level 2](03-professional-level-2/) | SKL-CSP2-711 | 12 | Web, wireless, mobile, cloud, crypto, IoT attacks |
-| 4 | [Penetration Testing](04-penetration-testing/) | SKL-PEN-712 | 2 | Running a professional engagement end-to-end |
-| 5 | [AI for Cyber Security](05-ai-for-cyber-security/) | SKL-AICS-720 | 5 | Using machine learning to attack and defend |
-| 📎 | [Networking Basics](06-networking-basics/) | — | 1 ref | Standalone deep networking handbook (companion to Course 1) |
+| # | Course / section | Code | Modules | Focus |
+|---|------------------|------|---------|-------|
+| 01 | [Networking Basics](01-networking-basics/) | — | 1 ref | **Start here** — standalone deep networking handbook (foundation for everything else) |
+| 02 | [Ethical Hacking Foundation](02-ethical-hacking-foundation/) | SKL-CEF-705 | 6 | The vocabulary, mindset, and map of the whole field |
+| 03 | [Professional Level 1](03-professional-level-1/) | SKL-CSP1-710 | 8 | Recon → scanning → exploitation fundamentals |
+| 04 | [Professional Level 2](04-professional-level-2/) | SKL-CSP2-711 | 12 | Web, wireless, mobile, cloud, crypto, IoT attacks |
+| 05 | [Penetration Testing](05-penetration-testing/) | SKL-PEN-712 | 2 | Running a professional engagement end-to-end |
+| 06 | [AI for Cyber Security](06-ai-for-cyber-security/) | SKL-AICS-720 | 5 | Using machine learning to attack and defend |
 
-**Total:** 33 modules · ~200 learning hours · 4-month program.
+**Total:** 33 modules + 1 networking reference · ~200 learning hours · 4-month program.
+
+> ℹ️ Folder numbers now run `01`–`06`: **`01-networking-basics`** comes first as
+> the recommended starting point, followed by the five official CSPP courses
+> (whose course codes `SKL-…` remain the curriculum's source of truth).
 
 ---
 
 ## Full module index
 
-### 1 · Ethical Hacking Foundation (`SKL-CEF-705`)
-1. [Introduction to Ethical Hacking](01-ethical-hacking-foundation/module-01-introduction-to-ethical-hacking.md)
-2. [Introduction to Cyber Security](01-ethical-hacking-foundation/module-02-introduction-to-cyber-security.md)
-3. [Cyber Security Key Concepts](01-ethical-hacking-foundation/module-03-cyber-security-key-concepts.md)
-4. [Cyber Security Tools Intro](01-ethical-hacking-foundation/module-04-cyber-security-tools-intro.md)
-5. [Exploitation and Penetration Testing](01-ethical-hacking-foundation/module-05-exploitation-and-penetration-testing.md)
-6. [Network Basics: OSI & TCP/IP Models](01-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md)
-   - 🌐 *Companion:* [Networking Basics — Deep Reference](06-networking-basics/networking-basics.md)
+### 01 · Networking Basics (start here)
+- 🌐 [Networking Basics — Deep Reference](01-networking-basics/networking-basics.md) — OSI/TCP-IP, TCP vs UDP, DNS/ARP, DHCP, IPv4 vs IPv6, switching, topologies, VLAN/VPN, firewall, NAT, SSH (with per-topic video links)
 
-### 2 · Professional Level 1 (`SKL-CSP1-710`)
-1. [Cyber Security Introduction & Kali Setup](02-professional-level-1/module-01-cyber-security-introduction.md)
-2. [Footprinting and Reconnaissance](02-professional-level-1/module-02-footprinting-and-reconnaissance.md)
-3. [Scanning Networks](02-professional-level-1/module-03-scanning-networks.md)
-4. [Enumeration](02-professional-level-1/module-04-enumeration.md)
-5. [Vulnerability Analysis](02-professional-level-1/module-05-vulnerability-analysis.md)
-6. [System Hacking](02-professional-level-1/module-06-system-hacking.md)
-7. [Malware Threats](02-professional-level-1/module-07-malware-threats.md)
-8. [Sniffing](02-professional-level-1/module-08-sniffing.md)
+### 02 · Ethical Hacking Foundation (`SKL-CEF-705`)
+1. [Introduction to Ethical Hacking](02-ethical-hacking-foundation/module-01-introduction-to-ethical-hacking.md)
+2. [Introduction to Cyber Security](02-ethical-hacking-foundation/module-02-introduction-to-cyber-security.md)
+3. [Cyber Security Key Concepts](02-ethical-hacking-foundation/module-03-cyber-security-key-concepts.md)
+4. [Cyber Security Tools Intro](02-ethical-hacking-foundation/module-04-cyber-security-tools-intro.md)
+5. [Exploitation and Penetration Testing](02-ethical-hacking-foundation/module-05-exploitation-and-penetration-testing.md)
+6. [Network Basics: OSI & TCP/IP Models](02-ethical-hacking-foundation/module-06-network-basics-osi-and-tcp-models.md)
+   - 🌐 *Companion:* [Networking Basics — Deep Reference](01-networking-basics/networking-basics.md)
 
-### 3 · Professional Level 2 (`SKL-CSP2-711`)
-1. [Social Engineering](03-professional-level-2/module-01-social-engineering.md)
-2. [Denial-of-Service](03-professional-level-2/module-02-denial-of-service.md)
-3. [Session Hijacking](03-professional-level-2/module-03-session-hijacking.md)
-4. [Evading IDS, Firewalls & Honeypots](03-professional-level-2/module-04-evading-ids-firewalls-and-honeypots.md)
-5. [Hacking Web Servers](03-professional-level-2/module-05-hacking-web-servers.md)
-6. [Hacking Web Applications](03-professional-level-2/module-06-hacking-web-applications.md)
-7. [SQL Injection](03-professional-level-2/module-07-sql-injection.md)
-8. [Hacking Wireless Networks](03-professional-level-2/module-08-hacking-wireless-networks.md)
-9. [Hacking Mobile Platforms](03-professional-level-2/module-09-hacking-mobile-platforms.md)
-10. [Cloud Computing Security](03-professional-level-2/module-10-cloud-computing-security.md)
-11. [Cryptography](03-professional-level-2/module-11-cryptography.md)
-12. [IoT & OT Hacking](03-professional-level-2/module-12-iot-and-ot-hacking.md)
+### 03 · Professional Level 1 (`SKL-CSP1-710`)
+1. [Cyber Security Introduction & Kali Setup](03-professional-level-1/module-01-cyber-security-introduction.md)
+2. [Footprinting and Reconnaissance](03-professional-level-1/module-02-footprinting-and-reconnaissance.md)
+3. [Scanning Networks](03-professional-level-1/module-03-scanning-networks.md)
+4. [Enumeration](03-professional-level-1/module-04-enumeration.md)
+5. [Vulnerability Analysis](03-professional-level-1/module-05-vulnerability-analysis.md)
+6. [System Hacking](03-professional-level-1/module-06-system-hacking.md)
+7. [Malware Threats](03-professional-level-1/module-07-malware-threats.md)
+8. [Sniffing](03-professional-level-1/module-08-sniffing.md)
 
-### 4 · Penetration Testing (`SKL-PEN-712`)
-1. [Penetration Testing Fundamentals](04-penetration-testing/module-01-penetration-testing-fundamentals.md)
-2. [Penetration Testing Concepts](04-penetration-testing/module-02-penetration-testing-concepts.md)
+### 04 · Professional Level 2 (`SKL-CSP2-711`)
+1. [Social Engineering](04-professional-level-2/module-01-social-engineering.md)
+2. [Denial-of-Service](04-professional-level-2/module-02-denial-of-service.md)
+3. [Session Hijacking](04-professional-level-2/module-03-session-hijacking.md)
+4. [Evading IDS, Firewalls & Honeypots](04-professional-level-2/module-04-evading-ids-firewalls-and-honeypots.md)
+5. [Hacking Web Servers](04-professional-level-2/module-05-hacking-web-servers.md)
+6. [Hacking Web Applications](04-professional-level-2/module-06-hacking-web-applications.md)
+7. [SQL Injection](04-professional-level-2/module-07-sql-injection.md)
+8. [Hacking Wireless Networks](04-professional-level-2/module-08-hacking-wireless-networks.md)
+9. [Hacking Mobile Platforms](04-professional-level-2/module-09-hacking-mobile-platforms.md)
+10. [Cloud Computing Security](04-professional-level-2/module-10-cloud-computing-security.md)
+11. [Cryptography](04-professional-level-2/module-11-cryptography.md)
+12. [IoT & OT Hacking](04-professional-level-2/module-12-iot-and-ot-hacking.md)
 
-### 5 · AI for Cyber Security (`SKL-AICS-720`)
-1. [Fundamentals of AI in Cyber Security](05-ai-for-cyber-security/module-01-fundamentals-of-ai-in-cyber-security.md)
-2. [AI for Threat Detection and Analysis](05-ai-for-cyber-security/module-02-ai-for-threat-detection-and-analysis.md)
-3. [AI in Cyber Defence Mechanisms](05-ai-for-cyber-security/module-03-ai-in-cyber-defence-mechanisms.md)
-4. [Ethical & Legal Considerations in AI](05-ai-for-cyber-security/module-04-ethical-and-legal-considerations-in-ai.md)
-5. [Emerging Trends & Future of AI in Cyber Security](05-ai-for-cyber-security/module-05-emerging-trends-and-future-of-ai.md)
+### 05 · Penetration Testing (`SKL-PEN-712`)
+1. [Penetration Testing Fundamentals](05-penetration-testing/module-01-penetration-testing-fundamentals.md)
+2. [Penetration Testing Concepts](05-penetration-testing/module-02-penetration-testing-concepts.md)
+
+### 06 · AI for Cyber Security (`SKL-AICS-720`)
+1. [Fundamentals of AI in Cyber Security](06-ai-for-cyber-security/module-01-fundamentals-of-ai-in-cyber-security.md)
+2. [AI for Threat Detection and Analysis](06-ai-for-cyber-security/module-02-ai-for-threat-detection-and-analysis.md)
+3. [AI in Cyber Defence Mechanisms](06-ai-for-cyber-security/module-03-ai-in-cyber-defence-mechanisms.md)
+4. [Ethical & Legal Considerations in AI](06-ai-for-cyber-security/module-04-ethical-and-legal-considerations-in-ai.md)
+5. [Emerging Trends & Future of AI in Cyber Security](06-ai-for-cyber-security/module-05-emerging-trends-and-future-of-ai.md)
 
 ---
 

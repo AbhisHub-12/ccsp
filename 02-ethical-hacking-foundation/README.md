@@ -16,7 +16,7 @@ later courses make sense.
 6. [Network Basics: OSI & TCP/IP Models](module-06-network-basics-osi-and-tcp-models.md)
 
 ## Companion references
-- 🌐 [Networking Basics — Deep Reference](../06-networking-basics/networking-basics.md) — a wide,
+- 🌐 [Networking Basics — Deep Reference](../01-networking-basics/networking-basics.md) — a wide,
   question-by-question networking handbook (OSI/TCP-IP, TCP vs UDP, DNS/ARP,
   DHCP, IPv4 vs IPv6, switching, topologies, VLAN/VPN, NAT, SSH).
 
@@ -31,4 +31,4 @@ flowchart LR
     F --> G[Ready for Level 1]
 ```
 
-➡️ Next: [Course 2 · Professional Level 1](../02-professional-level-1/)
+➡️ Next: [Course 2 · Professional Level 1](../03-professional-level-1/)
