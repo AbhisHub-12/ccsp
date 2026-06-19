@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=es72y2xJj40) [Privilege Escalation — The Attack Explained](https://www.youtube.com/watch?v=es72y2xJj40)
+
+---
+
 ## 1. In Plain English 🏢
 
 Think of a building. Earlier modules were about *casing it* — walking around, photographing the doors, noting open windows, identifying the lock brand. **System hacking is the part where someone actually gets *inside*.**

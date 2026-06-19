@@ -12,6 +12,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=3mgnZdM34wQ) [Shared Responsibility Model: Cloud Security Roles Explained](https://www.youtube.com/watch?v=3mgnZdM34wQ)
+
+---
+
 ## 1. In Plain English
 
 Imagine you want to run a restaurant but don't want to build a kitchen. Instead, you rent space in a giant shared commercial kitchen. Sometimes you rent just the bare room and bring your own appliances (you do most of the work). Sometimes the room comes with ovens and fridges already installed (less work for you). And sometimes you just rent a fully-staffed kitchen that cooks a fixed menu — you barely touch anything. **Cloud computing** is exactly this idea, but for computers: instead of buying your own servers, you rent computing power from a provider like Amazon (AWS), Microsoft (Azure), or Google (GCP), and you choose how much of the "kitchen" you manage yourself.

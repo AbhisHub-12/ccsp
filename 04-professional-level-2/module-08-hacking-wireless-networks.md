@@ -12,6 +12,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tyEqHhM1pjQ) [Wireless (Wi-Fi) Network Security Explained](https://www.youtube.com/watch?v=tyEqHhM1pjQ)
+
+---
+
 ## 1. In Plain English 🗣️
 
 Your Wi-Fi router is a radio station, broadcasting through your walls and out into the street. Unlike a wired network — where someone must physically plug into your wall — anyone in a parked car outside can simply *listen*. The airwaves are public. The only thing protecting your banking, messages, and passwords is **encryption**: the network scrambles the signal so eavesdroppers hear gibberish.

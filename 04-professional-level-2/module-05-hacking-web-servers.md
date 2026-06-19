@@ -6,6 +6,8 @@
 |---|---|---|---|
 | Professional Level 2 | SKL-CSP2-711 | Module 05 — Hacking Web Servers | level2 |
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ZJzTBc0uj2Q) [CNIT 123: Hacking Web Servers](https://www.youtube.com/watch?v=ZJzTBc0uj2Q)
+
 ## 1. In Plain English
 
 Picture a busy hotel front desk. The **web server** is that desk: it takes requests from guests (visitors typing a web address), looks up what they asked for, and hands it back — thousands of times a minute, for strangers all over the world.

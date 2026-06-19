@@ -13,6 +13,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=z5nc9MDbvkw) [Introduction To Cyber Security — Training For Beginners (Simplilearn)](https://www.youtube.com/watch?v=z5nc9MDbvkw)
+
+---
+
 ## 1. In Plain English
 
 Think of your **house**: doors with locks, a fence, a porch camera, the habit of checking the windows before bed. **Cyber security** is the same idea — but the "house" is your data and the systems holding it (email, bank account, a company's customer database, a hospital's patient records). The "burglars" are people or automated programs trying to steal, damage, or ransom what's inside.

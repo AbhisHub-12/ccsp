@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FzZ5ykie3yY) [What Is Reconnaissance And Footprinting? — First Step To Ethical Hacking](https://www.youtube.com/watch?v=FzZ5ykie3yY)
+
+---
+
 ## 1. In Plain English
 
 A clumsy burglar walks up and rattles the door. A smart one watches first: when do the lights go off, which windows have no locks, is there a dog, does a delivery van show up every Tuesday? They build a complete picture *before* doing anything risky. **Footprinting and reconnaissance** is that "watch first" phase — but for computer systems and organizations.

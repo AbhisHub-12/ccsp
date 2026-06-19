@@ -8,6 +8,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nBK289NmeTg) [Evading IDS, IPS, Firewall, Honeypot — Complete Guide](https://www.youtube.com/watch?v=nBK289NmeTg)
+
+---
+
 ## 1. In Plain English
 
 Picture a guarded office building. Each defense maps to a role:

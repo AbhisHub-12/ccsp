@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=3oTLTijODA4) [Introduction to Cyber Security for Beginners](https://www.youtube.com/watch?v=3oTLTijODA4)
+
+---
+
 ## 1. In Plain English 🏠
 
 Picture your house. You want three things to be true: only the right people get inside, nobody tampers with your stuff while you're out, and the house is *there and usable* when you come home. Cyber security is exactly this — but for information instead of furniture. The "house" is your data: your apps, bank account, photos, and your company's customer records.

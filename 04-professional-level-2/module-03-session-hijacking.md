@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=uhiISdVr6k8) [Session Hijacking Explained In Cyber Security](https://www.youtube.com/watch?v=uhiISdVr6k8)
+
+---
+
 ## 1. In Plain English 🎟️
 
 Picture a members-only club. The bouncer checks your ID once at the door, then hands you a wristband. For the rest of the night you never show ID again — you just flash the band. Convenient, but dangerous: **whoever wears it gets in**. Slip it off your wrist or copy it, and someone walks in as "you."

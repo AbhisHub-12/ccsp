@@ -11,6 +11,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=eiRb32cYbf4) [AI in Cybersecurity Explained: Smarter Threat Detection & Real Risks](https://www.youtube.com/watch?v=eiRb32cYbf4)
+
+---
+
 ## 1. In Plain English 🗣️
 
 Picture a brand-new security guard at a huge office building. On day one they know no one. But after a few weeks they learn the rhythms — who arrives at 8 a.m., which doors get used, what a normal delivery looks like. So when someone climbs through a back window at 3 a.m., the guard *instantly* knows something is wrong. Not because they have a photo of that burglar, but because the behavior is **abnormal**. That learned intuition is exactly what AI brings to cybersecurity.

@@ -12,6 +12,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=uPSgfNhd2qY) [Machine Learning Fundamentals for Cybersecurity Pros](https://www.youtube.com/watch?v=uPSgfNhd2qY)
+
+---
+
 ## 1. In Plain English
 
 Picture the front desk of a large building. Thousands of people walk in daily — mostly employees and visitors, but occasionally someone with a stolen badge. You can't inspect everyone, so you learn patterns: the 9 a.m. regulars, the sound of the badge reader, what "normal" looks like. When something is *off* — a badge used in two cities minutes apart — your instincts fire.

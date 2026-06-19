@@ -11,6 +11,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=10LrJDbQm7E) [What is Enumeration in Ethical Hacking? Explained](https://www.youtube.com/watch?v=10LrJDbQm7E)
+
+---
+
 ## 1. In Plain English
 
 Picture a burglar casing a building:

@@ -12,6 +12,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FrWG2M1W2OA) [Exploring IoT and OT Hacking](https://www.youtube.com/watch?v=FrWG2M1W2OA)
+
+---
+
 ## 1. In Plain English
 
 Your home is filling up with gadgets that talk to the internet: a video doorbell, a phone-controlled thermostat, a baby monitor, a smart speaker, even a fridge. Each is a tiny computer. Collectively we call them **IoT** — the **Internet of Things**. The "thing" is any everyday object given a network connection and a small brain to send and receive data.

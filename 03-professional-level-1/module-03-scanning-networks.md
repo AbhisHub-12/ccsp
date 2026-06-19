@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=IoIsTrKrl-0) [Nmap Tutorial For Beginners — How to Scan Your Network (Edureka)](https://www.youtube.com/watch?v=IoIsTrKrl-0)
+
+---
+
 ## 1. In Plain English 🗣️
 
 Picture a security professional hired to test a building. Before doing anything, they walk the perimeter and note which lights are on, which doors exist, which windows are open, and what locks each door uses. They aren't breaking in — they're *gathering information*. That is exactly what **network scanning** is.

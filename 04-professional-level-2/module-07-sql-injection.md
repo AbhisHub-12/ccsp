@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ciNHn38EyRc) [Running an SQL Injection Attack — Computerphile](https://www.youtube.com/watch?v=ciNHn38EyRc)
+
+---
+
 ## 1. In Plain English 🗣️
 
 Imagine sliding a note to a bank teller: *"Withdraw $100 from my account."* They check your ID and comply. Now imagine a sneakier note: *"Withdraw $100 — AND ALSO read out every account number and balance in the bank."* If the teller blindly obeys without separating *your request* from *general bank commands*, you've robbed the bank with a pen.

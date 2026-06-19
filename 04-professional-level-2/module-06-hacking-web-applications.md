@@ -7,6 +7,8 @@
 |--------|-------------|--------|-------|
 | Professional Level 2 | SKL-CSP2-711 | Module 06 — Hacking Web Applications | level2 |
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Zc5N3C51G6A) [OWASP Top 10 Explained](https://www.youtube.com/watch?v=Zc5N3C51G6A)
+
 ## 1. In Plain English 🍽️
 
 Think of a web application as a busy restaurant. The **front of house** is the website in your browser — the menu, the buttons, the order form. The **back of house** is the kitchen: servers, databases, and code that prepares your order. Clicking "place order" sends a slip of paper (an HTTP request) to the kitchen, which sends back your food (an HTTP response — the page).

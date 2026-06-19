@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=OYQ72d66EmY) [Post-Quantum Cryptography Explained: The Future of Cybersecurity in a Quantum World](https://www.youtube.com/watch?v=OYQ72d66EmY)
+
+---
+
 ## 1. In Plain English
 
 Think of how home security evolved: a lock → an alarm → cameras → a smart system that *learns* what "normal" looks like and flags anything odd. Cyber security is on the same path, but with two twists:

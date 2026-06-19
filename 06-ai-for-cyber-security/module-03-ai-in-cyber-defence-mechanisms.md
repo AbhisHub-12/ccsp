@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Is8119OtoD8) [AI-Driven Security Orchestration, Automation, and Response (SOAR)](https://www.youtube.com/watch?v=Is8119OtoD8)
+
+---
+
 ## 1. In Plain English
 
 Picture a large office building with two kinds of security guard plus a dispatcher.

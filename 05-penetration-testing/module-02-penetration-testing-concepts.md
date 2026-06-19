@@ -12,6 +12,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TbJL_CayTds) [Penetration Testing Methodologies — NIST / OWASP / OSSTMM](https://www.youtube.com/watch?v=TbJL_CayTds)
+
+---
+
 ## 1. In Plain English
 
 Hire a locksmith to break into your own house — not to steal, but to find which doors and windows a burglar could slip through. You give written permission, agree which buildings they may try, and ask for a report of every weakness and how to fix it. **Penetration testing** ("pen testing") is exactly that, but for computers, networks, and applications.

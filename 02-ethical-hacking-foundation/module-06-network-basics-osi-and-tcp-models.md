@@ -8,6 +8,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=3up1FsVRUfE) [The OSI Model and TCP/IP: Explained](https://www.youtube.com/watch?v=3up1FsVRUfE)
+
+---
+
 ## 1. In Plain English 📬
 
 Imagine mailing a birthday card. You write the message, seal the envelope, address it, and hand it to the post office — which figures out trucks, planes, and sorting centers. You don't need to know how planes fly. Each part of the system has **one job** and trusts the next part to do its own.

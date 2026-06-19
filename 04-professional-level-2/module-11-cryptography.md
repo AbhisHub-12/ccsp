@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2P2KdkLK1yM) [Cryptography Explained: Encryption, Hashing, and Steganography](https://www.youtube.com/watch?v=2P2KdkLK1yM)
+
+---
+
 ## 1. In Plain English
 
 Imagine mailing a locked diary to a friend overseas. Padlock it and keep the key — your friend can't open it. Mail the key separately — a thief intercepts it. Cryptography is the centuries-old art of solving exactly this puzzle: **keep a message secret, prove who sent it, and detect tampering — even when the message travels through untrusted places.**

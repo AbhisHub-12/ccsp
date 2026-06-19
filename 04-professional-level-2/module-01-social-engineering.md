@@ -12,6 +12,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MJgrbu-tEeg) [What is Social Engineering? Attacks & Techniques Explained](https://www.youtube.com/watch?v=MJgrbu-tEeg)
+
+---
+
 ## 1. In Plain English
 
 A thief wants into a locked office. The hard way: pick the locks, cut the alarm, climb through a window — noisy and risky. The easy way: stand by the door holding a coffee in each hand, smile, and ask the next employee, *"Could you grab the door? My hands are full."* Most people will. The thief just walked in — no lock-picking required.

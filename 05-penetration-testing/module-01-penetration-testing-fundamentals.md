@@ -12,6 +12,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=B7tTQ272OHE) [Simple Penetration Testing Tutorial for Beginners](https://www.youtube.com/watch?v=B7tTQ272OHE)
+
+---
+
 ## 1. In Plain English
 
 You just installed a new home security system — locks, cameras, an alarm. You *think* it's secure, but you don't really know until someone tries to break in. So you hire a trusted locksmith: "Try to get in using any trick you can, then tell me exactly how you did it." That friendly burglar is a **penetration tester**, and the controlled break-in is a **penetration test**.

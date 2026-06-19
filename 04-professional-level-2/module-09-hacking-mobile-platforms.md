@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=eyYI4mIB5XY) [Hacking Mobile Platforms — Android & iOS Attacks, MDM & Mobile Security](https://www.youtube.com/watch?v=eyYI4mIB5XY)
+
+---
+
 ## 1. In Plain English 🗣️
 
 Picture your phone as a tiny apartment building. Each app is a flat with its own front door, locks, and belongings. The operating system (Android or iOS) is the building manager — it decides which flats can talk, who reaches the basement (system internals), and who holds a master key. **Hacking mobile platforms** is the art of picking those locks, slipping past the manager, or tricking a tenant into handing over their keys.

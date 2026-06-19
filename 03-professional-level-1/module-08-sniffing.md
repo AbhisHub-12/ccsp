@@ -12,6 +12,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=sa1pZWiuzT4) [ARP Poisoning / MITM Attacks by Sniffing Network with Wireshark](https://www.youtube.com/watch?v=sa1pZWiuzT4)
+
+---
+
 ## 1. In Plain English 📬
 
 Picture your local network as a postal system. Every device sends out "letters" (data packets) addressed to other devices. **Sniffing** is secretly reading other people's mail as it passes by — capturing traffic that wasn't meant for you and inspecting what's inside.

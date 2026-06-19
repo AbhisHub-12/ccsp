@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QCNEylVuZU4) [Ethical Considerations in AI-Driven Cybersecurity](https://www.youtube.com/watch?v=QCNEylVuZU4)
+
+---
+
 ## 1. In Plain English 🧭
 
 Imagine you hire a brilliant but inexperienced security guard. They watch a thousand cameras at once and spot patterns no human could — but they learned everything from old footage of *your* building. So they trust people who "look like" the regulars, get suspicious of newcomers, and remember everyone's face and habits (powerful, but creepy). A clever intruder who studies the guard's quirks can dress to slip right past them.

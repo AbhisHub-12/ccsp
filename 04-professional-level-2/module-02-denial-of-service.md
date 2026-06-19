@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Xb0mAMnqJOQ) [What is a DDoS Attack and How Does It Work?](https://www.youtube.com/watch?v=Xb0mAMnqJOQ)
+
+---
+
 ## 1. In Plain English ☕
 
 Picture a coffee shop with one barista. Normally customers walk in, order, and leave happy. Now 5,000 people show up at once — some block the doorway, some order absurdly complicated drinks, and some shout fake orders the barista half-prepares then abandons. Real customers can't get in or get served, and give up. The shop isn't *broken* — it's **overwhelmed**.

@@ -13,6 +13,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=zsyhXbVum1Q) [Top 5 Cybersecurity Tools for Beginners: Wireshark, Nmap, Metasploit & More](https://www.youtube.com/watch?v=zsyhXbVum1Q)
+
+---
+
 ## 1. In Plain English
 
 Imagine you're hired to test how secure a building is. You wouldn't show up empty-handed — you'd bring a flashlight for dark corners, lock picks to test doors, a notebook to map entrances, and a camera to record findings. Each tool does one job well, and together they reveal far more than your eyes alone.

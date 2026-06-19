@@ -9,6 +9,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=4oYaEWT4FGY) [Ethical Hacking Explained for Beginners](https://www.youtube.com/watch?v=4oYaEWT4FGY)
+
+---
+
 ## 1. In Plain English 🗣️
 
 Imagine you hire a locksmith to break into your own house. You want to know: can a burglar get in through the back window? Is the front lock actually secure? The locksmith tries every door and hinge — not to rob you, but to hand you a report saying "fix these three things before a real thief finds them." That is **ethical hacking**: a trusted expert attacks a system *with permission* so the owner can fix weaknesses before a criminal exploits them.

@@ -11,6 +11,10 @@
 
 ---
 
+> 📺 **Watch — top video on this topic:** [![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Ti6UN9MSLno) [The CIA Triad: Confidentiality, Integrity & Availability Explained](https://www.youtube.com/watch?v=Ti6UN9MSLno)
+
+---
+
 ## 1. In Plain English
 
 Imagine you've just been hired to test the security of a large office building. You wouldn't throw a brick through a window. You'd first walk the block to count entrances, note which doors are propped open, learn who works there, and only *then* — with the owner's written permission — try to slip inside unnoticed. **Ethical hacking** works exactly the same way, just with computers instead of buildings: testing systems for weaknesses *with permission*, so the owner can fix them before a criminal finds them.
